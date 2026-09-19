@@ -1,0 +1,61 @@
+Al-Rubaye, S., & ... (2025). A novel approach for real-time anomaly detection in dynamic computer networks using temporal graph networks and XAI. *Alexandria Engineering Journal*. https://doi.org/10.1016/j.aej.2025.11.001
+
+Anomal-E: A self-supervised network intrusion detection system based on graph neural networks. (2022). *Knowledge-Based Systems*. https://doi.org/10.1016/j.knosys.2022.110030
+
+APT attack detection based on graph convolutional neural networks. (2023). *International Journal of Information Security*. https://doi.org/10.1007/s44196-023-00369-5
+
+Defense-aware temporal graph neural network for fault-tolerant intrusion detection in IIoT–5G environments. (2026). *Cluster Computing*. https://doi.org/10.1007/s10586-026-06037-5
+
+DIGNN-A: Real-time network intrusion detection with integrated neural networks based on dynamic graph. (2024). *Computers, Materials & Continua, 82*(1). https://doi.org/10.32604/cmc.2024.057660
+
+DyRep: Learning representations over dynamic graphs. (2019). *International Conference on Learning Representations*. https://doi.org/10.48550/arXiv.1803.04051
+
+Euler: Detecting network lateral movement via scalable temporal link prediction. (2023). *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security*. https://doi.org/10.1145/3588771
+
+EvolveGCN: Evolving graph convolutional networks for dynamic graphs. (2020). *Proceedings of the AAAI Conference on Artificial Intelligence, 34*(4), 5363–5370. https://doi.org/10.1609/aaai.v34i04.5984
+
+Graph neural networks for intrusion detection: A survey. (2023). *IEEE Access*. https://doi.org/10.1109/ACCESS.2023.3275789
+
+Graph neural networks for network intrusion detection systems: A comprehensive survey, taxonomy, and empirical evaluation. (2026). *Artificial Intelligence Review*. https://doi.org/10.1007/s10462-026-11683-7
+
+GNNExplainer: Generating explanations for graph neural networks. (2019). *Proceedings of the 33rd International Conference on Neural Information Processing Systems*. https://doi.org/10.48550/arXiv.1903.03894
+
+HOLMES: Real-time APT detection through correlation of suspicious information flows. (2019). *2019 IEEE Symposium on Security and Privacy*. https://doi.org/10.1109/SP.2019.00026
+
+Jbeil: Temporal graph-based inductive learning to infer lateral movement in evolving enterprise networks. (2024). *2024 IEEE Symposium on Security and Privacy*. https://doi.org/10.1109/SP54263.2024.00009
+
+MGDA: A provenance graph-based framework for threat detection and attack scenario reconstruction. (2025). *Computer Networks*. https://doi.org/10.1016/j.comnet.2025.111806
+
+NODLINK: An online system for fine-grained APT attack detection and investigation. (2023). *arXiv*. https://doi.org/10.48550/arXiv.2311.02331
+
+Network topology security analysis and attack detection based on graph neural networks. (2025). *Journal of King Saud University - Computer and Information Sciences*. https://doi.org/10.1007/s43926-025-00277-4
+
+On explainability of graph neural networks via subgraph explorations. (2021). *Proceedings of the 38th International Conference on Machine Learning*, 139, 10883–10893. https://doi.org/10.48550/arXiv.2102.05152
+
+POIROT: Aligning attack behavior with kernel audit records for cyber threat hunting. (2020). *Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security*. https://doi.org/10.1145/3319535.3363217
+
+Predicting dynamic embedding trajectory in temporal interaction networks. (2019). *Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*. https://doi.org/10.1145/3292500.3330895
+
+Provenance graph-based deep learning framework for APT detection in edge computing. (2025). *Applied Sciences, 15*(16), 8833. https://doi.org/10.3390/app15168833
+
+SCGIN-ID: A self-supervised contrastive learning framework for graph-based network intrusion detection. (2024). *Concurrency and Computation: Practice and Experience*. https://doi.org/10.1002/cpe.70346
+
+Sentient: Detecting APTs via capturing indirect dependencies and behavioral logic. (2026). *Proceedings of the AAAI Conference on Artificial Intelligence, 40*(2). https://doi.org/10.1609/aaai.v40i2.37115
+
+Self-supervised graph neural networks for network intrusion detection in cloud-edge collaboration environments. (2026). *Journal of Cloud Computing*. https://doi.org/10.1186/s13677-026-00847-z
+
+Slot: Provenance-driven APT detection through graph reinforcement learning. (2025). *Proceedings of the 2025 ACM Asia Conference on Computer and Communications Security*. https://doi.org/10.1145/3719027.3744788
+
+Sylph: An unsupervised APT detection system based on the provenance graph. (2025). *Information, 16*(7), 566. https://doi.org/10.3390/info16070566
+
+Temporal flow-based dynamic graph neural network with robustness interpretation for DoS/DDoS IoT intrusion detection. (2026). *Digital Threats: Research and Practice*. https://doi.org/10.1016/j.dt.2026.06.002
+
+Temporal graph networks for deep learning on dynamic graphs. (2020). *arXiv*. https://doi.org/10.48550/arXiv.2006.10637
+
+TREC: APT tactic/technique recognition via few-shot provenance subgraph learning. (2024). *Proceedings of the ACM Conference on Computer and Communications Security*. https://doi.org/10.1145/3658644.3690221
+
+X-GANet: An explainable graph-based framework for robust network intrusion detection. (2025). *Applied Sciences, 15*(9), 5002. https://doi.org/10.3390/app15095002
+
+XMF-GNN: A cross-modality dynamic fusion heterogeneous graph neural network for network intrusion detection. (2025). *Neurocomputing*. https://doi.org/10.1016/j.neucom.2025.131285
+
+X-GraphIDS: Explainable graph neural network-based intrusion detection system. (2026). *IEEE*. https://doi.org/10.1109/ICDCA69396.2026.11620243
